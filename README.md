@@ -2,7 +2,7 @@
 
 Nesse repo, você encontrará scripts que ajudarão a instalar os programas necessários para deixar seu PC pronto para utilização em desenvolvimento assim que você terminar de instalar o sistema Ubuntu-based de sua preferência.
 
-Os scripts foram testados na versão 20.10 do Ubuntu, mas você deve conseguir utilizá-los separadamente caso precise.
+Os scripts foram testados na versão 20.04 do Ubuntu, mas você deve conseguir utilizá-los separadamente caso precise.
 
 Caso os scripts não funcionem ao serem baixados, lembre-se de usar o comando chmod +x nome_do_script.sh para dar permissão de execução aos arquivos.
 
